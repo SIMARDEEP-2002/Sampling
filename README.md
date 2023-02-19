@@ -23,4 +23,4 @@ on each sample to predict accuracy.
 
 ## Result
 
-* Highest accuracy is obtained in Ranfom Forest using sampling 3 technique.
+* Highest accuracy is obtained in Random Forest using sampling 3 technique.
